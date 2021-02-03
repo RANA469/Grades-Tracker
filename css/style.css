@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300;1,400&display=swap');
+
+
+
+main {
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+}
+
+body {
+    background-image: url("/img/school.jpg");
+    background-color: #cccccc;
+
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px white;
+}
+
+th,
+tr {
+    border: 2px black;
+    height: 70%;
+}
+header{
+    background-color: black;
+    height:100px;
+    text-align: center;
+   
+
+}
+h1{
+    color:white;
+    text-align: center;
+}
+
+div{
+background-color: turquoise;
+
+}
